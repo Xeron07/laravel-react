@@ -34,6 +34,7 @@ class AddPerson extends Component {
           <br></br>
 
           <form onSubmit={this.handleSubmit}>
+          @csrf
             <label htmlFor="name">Name:</label>
             <input
               type="text"
