@@ -1,0 +1,47 @@
+a {
+  color: thistle;
+}
+
+.active {
+  color: teal;
+  border-bottom: 1px inset;
+}
+
+.navbar-nav {
+  width: 100%;
+}
+
+.nav-item {
+  width: 100%;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: saddlebrown;
+  background-size: auto;
+  border-radius: 15px;
+  width: 90%;
+  margin-left: 5%;
+  opacity: 0.8;
+  margin-bottom: 0px;
+}
+
+.profileData {
+  background-size: auto;
+  border-radius: 15px;
+  width: 90%;
+  margin-left: 5%;
+  opacity: 0.8;
+  padding: 10px;
+  margin-bottom: 0px;
+  border: 1px inset black;
+}
+
+.profileData h3 {
+  color: teal;
+}
+
+.profileInfo {
+  margin-left: 2px;
+  text-align: left;
+}
